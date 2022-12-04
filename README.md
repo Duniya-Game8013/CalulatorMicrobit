@@ -10,20 +10,13 @@ This repository can be added as an **extension** in MakeCode.
 * click on **Extensions** under the gearwheel menu
 * search for **https://github.com/duniya-game8013/calulatormicrobit** and import
 
-## Edit this project ![Build status badge](https://github.com/duniya-game8013/calulatormicrobit/workflows/MakeCode/badge.svg)
+## Edit this project ![Build status badge]
 
 To edit this repository in MakeCode.
 
 * open [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * click on **Import** then click on **Import URL**
 * paste **https://github.com/duniya-game8013/calulatormicrobit** and click import
-
-## Blocks preview
-
-This image shows the blocks code from the last commit in master.
-This image may take a few minutes to refresh.
-
-![A rendered view of the blocks](https://github.com/duniya-game8013/calulatormicrobit/raw/master/.github/makecode/blocks.png)
 
 #### Metadata (used for search, rendering)
 
