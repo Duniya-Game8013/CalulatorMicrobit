@@ -1,5 +1,5 @@
 
-> Open this page at [https://github.com/Duniya-Game8013/CalulatorMicrobit](https://github.com/Duniya-Game8013/CalulatorMicrobit)
+> Open this Readme file in HTML [https://duniya-game8013.github.io/CalulatorMicrobit/](https://duniya-game8013.github.io/CalulatorMicrobit/)
 
 ## Use as Extension
 
